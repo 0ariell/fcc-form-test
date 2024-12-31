@@ -81,6 +81,11 @@ input, select, textarea {
     color: #000000e6;
 }
 
+textarea:focus {
+    box-shadow: 0 0 7px 0.23rem rgba(178, 105, 223, 0.419);
+    border:none;
+}
+
 input[type="checkbox"]:checked {
     background-color: #5210d5e9; /* Cambia el color de fondo */
     border:none
