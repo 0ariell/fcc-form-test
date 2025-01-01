@@ -191,7 +191,10 @@ button.custom-btn:hover {
     box-shadow: 0 0 7px 0.23rem rgba(163, 94, 206, 0.166);
 }
 
+/* estilos bstp js */
 
+.error-message {
+}
 
 @media (min-width: 768px) {
     form {
